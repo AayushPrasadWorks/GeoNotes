@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308487919832",
+    "firebase_url": "https://geo-notes-d8593-default-rtdb.firebaseio.com",
+    "project_id": "geo-notes-d8593",
+    "storage_bucket": "geo-notes-d8593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308487919832:android:8bd10f966d104406eadfad",
+        "android_client_info": {
+          "package_name": "com.example.geonotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308487919832-k8uvalolpletuhjcjkhnhcrng9l50685.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmC1U9CWMa2VH7io1UJAATlvCh-RTInAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308487919832-k8uvalolpletuhjcjkhnhcrng9l50685.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
